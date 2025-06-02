@@ -67,7 +67,7 @@ li {
     line-height: 150%;
 }
 
-li • li {
+li + li {
     margin-top: 8px;
 }
 
@@ -134,8 +134,8 @@ td {
     line-height: 150%;
 }
 
-tr • tr th,
-tr • tr td {
+tr + tr th,
+tr + tr td {
     padding-block: 12px;
 }
 
